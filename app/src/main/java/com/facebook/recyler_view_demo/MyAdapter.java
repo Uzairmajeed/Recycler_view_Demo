@@ -29,6 +29,7 @@ public class MyAdapter extends RecyclerView.Adapter<MyViewHolder> {
         return new MyViewHolder(LayoutInflater.from(context).inflate(R.layout.item_view,parent,false));
     }
     //changes for git
+    //again changeg
 
     @Override
     public void onBindViewHolder(@NonNull  MyViewHolder holder, int position) {
